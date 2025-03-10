@@ -1,0 +1,2 @@
+- allows you to convert json into Rust, C#, Go structs
+- also allows searching for values in the json data
